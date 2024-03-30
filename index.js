@@ -23,4 +23,4 @@ client.on('ready', () => {
 });
 
 // Asegúrate de reemplazar 'tu-token' con el token de tu bot.
-client.login('MTIyMzc0NDI1MzkyNzM1ODUwNw.GBvfZQ._ZvTPsI8hOiE0T6NVaOQAm_1wAT6proVq1uio0');
+client.login('BOT-TOKEN');
